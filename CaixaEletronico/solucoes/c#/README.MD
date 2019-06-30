@@ -9,7 +9,7 @@ CalcularNotas, recebe o valor a ser sacado e calcula as notas possíveis para o 
 Classe que simboliza uma nota do mundo real\
 **Solução Proposta**\
 O valor solicitado é enviado para CalcularNotas, que calcula a quantidade de notas possíveis deixando saldo remanescente, o saldo remanescente e enviado para calculo de notas para notas de uma grandeza menor e assim sussecivamente.\
-## Exemplo\
+### Exemplo
 Solicitado saque de 140 reais\
 CalcularNotas para notas de 100, fica com saldo de 40 reais\
 Passo o saldo para calcular com notas de 50, o saldo se mantém em 40 já que não é possível obter nenhuma nota de 50\
