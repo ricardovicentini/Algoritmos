@@ -1,0 +1,12 @@
+d:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\bin\Debug\netcoreapp3.0\c#.exe
+D:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\bin\Debug\netcoreapp3.0\c#.deps.json
+D:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\bin\Debug\netcoreapp3.0\c#.runtimeconfig.json
+D:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\bin\Debug\netcoreapp3.0\c#.runtimeconfig.dev.json
+d:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\bin\Debug\netcoreapp3.0\c#.dll
+d:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\bin\Debug\netcoreapp3.0\c#.pdb
+d:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\obj\Debug\netcoreapp3.0\c#.csprojAssemblyReference.cache
+d:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\obj\Debug\netcoreapp3.0\c#.csproj.CoreCompileInputs.cache
+d:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\obj\Debug\netcoreapp3.0\c#.AssemblyInfoInputs.cache
+d:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\obj\Debug\netcoreapp3.0\c#.AssemblyInfo.cs
+d:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\obj\Debug\netcoreapp3.0\c#.dll
+d:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\obj\Debug\netcoreapp3.0\c#.pdb
