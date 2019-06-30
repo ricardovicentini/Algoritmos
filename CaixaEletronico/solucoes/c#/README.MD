@@ -1,5 +1,5 @@
 ## Solução em c#
-![Csharp](https://raw.githubusercontent.com/ricardovicentini/Algoritmos/master/c%23.jpg)
+![Csharp](https://raw.githubusercontent.com/ricardovicentini/Algoritmos/master/c%23.jpg)\
 **Program.cs**
 Arquivo de teste onde eh feita a solicitação do valor desejado para saque
 E na sequência é instânciada a classe CaixaEletrônico
