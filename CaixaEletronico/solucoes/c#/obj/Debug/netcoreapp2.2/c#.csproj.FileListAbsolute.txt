@@ -1,0 +1,11 @@
+D:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\bin\Debug\netcoreapp2.2\c#.deps.json
+D:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\bin\Debug\netcoreapp2.2\c#.runtimeconfig.json
+D:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\bin\Debug\netcoreapp2.2\c#.runtimeconfig.dev.json
+D:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\bin\Debug\netcoreapp2.2\c#.dll
+D:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\bin\Debug\netcoreapp2.2\c#.pdb
+D:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\obj\Debug\netcoreapp2.2\c#.csprojAssemblyReference.cache
+D:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\obj\Debug\netcoreapp2.2\c#.csproj.CoreCompileInputs.cache
+D:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\obj\Debug\netcoreapp2.2\c#.AssemblyInfoInputs.cache
+D:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\obj\Debug\netcoreapp2.2\c#.AssemblyInfo.cs
+D:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\obj\Debug\netcoreapp2.2\c#.dll
+D:\Documentos\estudo\Algoritmos\dia-a-dia\CaixaEletronico\solucoes\c#\obj\Debug\netcoreapp2.2\c#.pdb

@@ -7,26 +7,33 @@ namespace c_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Quanto quer sacar?");
-            int valorSolicitado =  0;
-            int.TryParse(Console.ReadLine(), out valorSolicitado);
-
             CaixaEletronico cx = new CaixaEletronico();
-            var notas = cx.CalcularNotas(valorSolicitado);
+            cx.AdicionarNotas(100, 5);
+            cx.AdicionarNotas(50, 5);
+            cx.AdicionarNotas(20, 5);
 
-            var retorno = notas.GroupBy(nota=>nota.Valor).Select(group => new {Valor = group.Key, Quantidade = group.Count()  } ).OrderBy(x=>x.Valor);
-
-            if(retorno.Any())
+            do
             {
-                foreach(var nota in retorno)
-                    Console.WriteLine($"Nota: {nota.Valor} Quantidade: {nota.Quantidade}");
+                Console.WriteLine($"O saldo atual do caixa é {cx.SaldoDinheiro()}");
+                Console.WriteLine("Quanto quer sacar?");
 
-            }
-            else
-            {
-                Console.WriteLine("Valor inválido");
-            }
-            
+                int valorSolicitado = 0;
+                int.TryParse(Console.ReadLine(), out valorSolicitado);
+
+
+                var resultado = cx.SacarV2(valorSolicitado);
+                Console.WriteLine("Sucesso: " + resultado.Sucesso);
+                Console.WriteLine("Mensagem:");
+                Console.WriteLine(resultado.Mensagem);
+
+                Console.WriteLine($"O saldo atual do caixa é {cx.SaldoDinheiro()}");
+
+                Console.WriteLine("Continuar sacando?(s/n)");
+
+
+            } while (Console.ReadKey().Key == ConsoleKey.S);
+
+
 
         }
     }
